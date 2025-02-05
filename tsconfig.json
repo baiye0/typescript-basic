@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {
+    "strictNullChecks": false //当strictNullChecks设置为false时，TypeScript会放宽对null和undefined的检查，允许它们被赋值给任何类型的变量
+  }
+}
